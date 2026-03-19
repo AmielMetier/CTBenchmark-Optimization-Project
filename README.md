@@ -45,7 +45,7 @@ Here are our main contributions to the core repository:
 
 ---
 
-##Documents
+## Documents
 You can find the detailed documentation of our work in this repository:
 - 📄 **[Full Project Report (PDF)](./Rapport_optimalcontrole_Metier.pdf)** *(in French)*
 
