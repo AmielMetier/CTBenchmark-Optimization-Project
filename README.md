@@ -1,4 +1,4 @@
-#Control Toolbox Benchmark: Optimization & Enrichment
+# Control Toolbox Benchmark: Optimization & Enrichment
 
 This repository contains the final report of our Master's project (MAM4) at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/). 
 
@@ -9,7 +9,7 @@ The project focuses on contributing to the open-source **[Control Toolbox](https
 
 ---
 
-##Project Objectives & Key Contributions
+## Project Objectives & Key Contributions
 
 Evaluating the efficiency of non-linear optimization solvers (like Ipopt or MadNLP) requires more than just average solving times. Our mission was to provide robust evaluation tools, fix convergence issues, and expand the benchmark library.
 
@@ -37,7 +37,7 @@ Here are our main contributions to the core repository:
 
 ---
 
-##Technologies & Tools
+## Technologies & Tools
 - **Language:** Julia 
 - **Packages:** `OptimalControl.jl`, `ExaModels.jl`, `MadNLP.jl`, `Ipopt.jl`, `DataFrames.jl`, `Plots.jl`
 - **Workflow:** Git, GitHub Actions (CI/CD), Atomic Commits, Pull Requests
